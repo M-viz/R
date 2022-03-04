@@ -1,3 +1,7 @@
 #function to ease tasks involving rolling window
 
-RW=function(){}
+# i= number of iteration (length of the window)  
+
+RW=function(i=100,){
+
+}
