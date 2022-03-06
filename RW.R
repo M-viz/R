@@ -5,4 +5,6 @@
 RW=function(i=100,){
   initial= 
   final=
+  
+for(i in initial:final){} 
 }
