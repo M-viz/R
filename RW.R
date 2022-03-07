@@ -2,8 +2,8 @@
 
 # i= number of iteration (length of the window)  
 
-RW=function(i=100,){
-  initial= 
+RW=function(i=100,ini=1){
+  initial=ini
   final=
   
 for(i in initial:final){} 
